@@ -21,5 +21,10 @@ namespace ьдк_30
         {
             System.Diagnostics.Process.Start("2844750.png");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("sky-blue-theory-montreal-graphic-design-wesbites-branding-logo-social-media-2.jpg");
+        }
     }
 }
