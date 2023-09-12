@@ -1,0 +1,11 @@
+E:\МДК 03.01\Новая папка\shiza\ьдк 30\bin\Debug\ьдк 30.exe.config
+E:\МДК 03.01\Новая папка\shiza\ьдк 30\bin\Debug\ьдк 30.exe
+E:\МДК 03.01\Новая папка\shiza\ьдк 30\bin\Debug\ьдк 30.pdb
+E:\МДК 03.01\Новая папка\shiza\ьдк 30\obj\Debug\ьдк 30.csproj.AssemblyReference.cache
+E:\МДК 03.01\Новая папка\shiza\ьдк 30\obj\Debug\ьдк 30.csproj.SuggestedBindingRedirects.cache
+E:\МДК 03.01\Новая папка\shiza\ьдк 30\obj\Debug\ьдк_30.Form1.resources
+E:\МДК 03.01\Новая папка\shiza\ьдк 30\obj\Debug\ьдк_30.Properties.Resources.resources
+E:\МДК 03.01\Новая папка\shiza\ьдк 30\obj\Debug\ьдк 30.csproj.GenerateResource.cache
+E:\МДК 03.01\Новая папка\shiza\ьдк 30\obj\Debug\ьдк 30.csproj.CoreCompileInputs.cache
+E:\МДК 03.01\Новая папка\shiza\ьдк 30\obj\Debug\ьдк 30.exe
+E:\МДК 03.01\Новая папка\shiza\ьдк 30\obj\Debug\ьдк 30.pdb
